@@ -3,4 +3,5 @@ Update version 0.1
 
 Testing git fetch and merge vs git pull
 added from remote and test pull.
+Added from remote and testing fetch with merge
 
